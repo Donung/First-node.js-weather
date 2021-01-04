@@ -1,0 +1,4 @@
+# First-node.js-weather
+ทดลองเขียน Node.js ทำ App พยากรณ์อากาศ
+
+![alt text](https://s2.gifyu.com/images/02deb3e4f88b22f30b.png)
